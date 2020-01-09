@@ -1,0 +1,1 @@
+console.log ("Why did the Programmer Quit his Job?")
